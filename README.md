@@ -4,5 +4,6 @@
 <a href="#">
   <img align="center" src="https://github-stats.azuradara.vercel.app/api/top-langs/?username=azuradara&layout=compact&custom_title=Most%20Used%20Languages&bg_color=0d1117&text_color=9e9e9e&title_color=FFFFFF&hide_border=true" />
 </a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azuradara&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
